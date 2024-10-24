@@ -31,3 +31,10 @@ body{
     color: grey;
     font-size: 21px;
 }
+
+/*Footer*/
+.footer{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
